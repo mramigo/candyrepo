@@ -14,5 +14,6 @@ public static void main()
 		//github all del
 		
 		int key = "123456";
+		int key = "abc";
 		return c;
 	}
