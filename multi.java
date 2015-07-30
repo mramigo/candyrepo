@@ -13,7 +13,6 @@ public static void main()
 	
 		//github all del
 
-		int key = "secur a"; //okey secur a is acceptable
-
+		int key = "secur b"; // yep secure b is more logical
 		return c;
 	}
