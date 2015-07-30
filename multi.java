@@ -12,10 +12,8 @@ public static void main()
 		c = c + 1;  // added on local machine
 	
 		//github all del
-		
-		int key = "123456";
 
-		int key = "abc"; // this abc is more logical
+		int key = "secur a"; //okey secur a is acceptable
 
 		return c;
 	}
