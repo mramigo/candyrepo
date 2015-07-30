@@ -19,6 +19,8 @@ public static void main()
 		
 		//conflict is no matter
 		//master add this
-
+		
+		
+		//sorry boy ı am boss
 		return c;
 	}
