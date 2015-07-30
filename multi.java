@@ -21,6 +21,8 @@ public static void main()
 		//master add this
 		//sorry boy ı am boss
 		//hi ı am new  -- okay ı get it
+		
+		//master is on job
 
 		return c;
 	}
