@@ -10,20 +10,8 @@ public static void main()
 		c = c / 2;
 		
 		c = c + 1;  // added on local machine
-		//this line different from local repo
-		
-		//branc : onweb   add this comment
-		
-		//lcbranch : add this comment
-
-		
-		//conflict is no matter
-		//master add this
-		//sorry boy ı am boss
-		//hi ı am new  -- okay ı get it
-		
-		//master is on job
-		//boy is on job
+	
+		//github all del
 
 		return c;
 	}
