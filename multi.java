@@ -13,6 +13,6 @@ public static void main()
 	
 		//github all del
 		
-		int key = "secur a";
+		int key = "secur b";
 		return c;
 	}
