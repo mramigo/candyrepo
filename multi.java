@@ -23,6 +23,7 @@ public static void main()
 		//hi ı am new  -- okay ı get it
 		
 		//master is on job
+		//boy is on job
 
 		return c;
 	}
