@@ -20,5 +20,6 @@ public static void main()
 		//conflict is no matter
 		//master add this
 
+		//hi ı am new
 		return c;
 	}
