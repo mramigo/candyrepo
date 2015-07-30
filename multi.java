@@ -8,5 +8,7 @@ public static void main()
 	{
 		int c = a * b;
 		c = c / 2;
+		
+		c = c + 1;  // added on local machine
 		return c;
 	}
