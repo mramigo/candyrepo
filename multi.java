@@ -16,5 +16,6 @@ public static void main()
 		int key = "secur b"; // yep secure b is more logical
 		something change //jerr you have wrong idea about it 
 
-		return c;
+		returnVal = c+c;
+		return returnVal;
 	}
