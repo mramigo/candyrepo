@@ -14,9 +14,9 @@ public static void main()
 		//github all del
 
 		int key = "secur b"; // yep secure b is more logical
-		something change //jerr you have wrong idea about it 
-
-		masterVal = c + c;
-		return masterVal;
+		something change //jerr you have wrong idea about it
 		
+		masterVal = c + c;
+		returnVal = c+c + masterVal;
+		return returnVal;
 	}
